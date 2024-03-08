@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  margin: 0;
+  padding: 0;
+  font-family: Outfit Variable, sans-serif;
+}
+
+body {
+  background-color: #D5E1EF;
+}
